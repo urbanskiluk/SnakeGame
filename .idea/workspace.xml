@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Snake" targetName="Snake" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4bfe6213-c5aa-4bfa-a562-3157fd54d30f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="1" />
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../Snake\exportToHTML" />
+  </component>
+  <component name="ProjectId" id="2ChnFSLpYHidkC4PbP2kYSdPeY8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Desktop\lukas\cPP\Snake" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Snake" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Snake" TARGET_NAME="Snake" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Snake" RUN_TARGET_NAME="Snake">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4bfe6213-c5aa-4bfa-a562-3157fd54d30f" name="Default Changelist" comment="" />
+      <created>1659263579537</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659263579537</updated>
+      <workItem from="1659263581400" duration="7891000" />
+      <workItem from="1659280271070" duration="221000" />
+      <workItem from="1659280763631" duration="41000" />
+      <workItem from="1659285652464" duration="225000" />
+      <workItem from="1659365577481" duration="33000" />
+      <workItem from="1659374127660" duration="4377000" />
+      <workItem from="1659463937148" duration="3878000" />
+      <workItem from="1659543612008" duration="1836000" />
+      <workItem from="1659725702584" duration="147000" />
+      <workItem from="1659802155244" duration="7953000" />
+      <workItem from="1659872566864" duration="8203000" />
+      <workItem from="1659892086281" duration="593000" />
+      <workItem from="1660230399317" duration="5397000" />
+      <workItem from="1660318520115" duration="4174000" />
+      <workItem from="1660473141958" duration="636000" />
+      <workItem from="1660477943212" duration="4267000" />
+      <workItem from="1660563433572" duration="7855000" />
+      <workItem from="1660663227486" duration="628000" />
+      <workItem from="1660665458032" duration="28000" />
+      <workItem from="1679215901461" duration="220000" />
+      <workItem from="1679234479589" duration="2197000" />
+      <workItem from="1679237182610" duration="3606000" />
+      <workItem from="1679252771935" duration="2413000" />
+      <workItem from="1679737840715" duration="82000" />
+      <workItem from="1680630524228" duration="1696000" />
+      <workItem from="1680879786107" duration="22000" />
+      <workItem from="1692518511752" duration="661000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="719" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1692519033424">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="719" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1692519033424" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1692518511785">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1692518511785" />
+  </component>
+</project>
